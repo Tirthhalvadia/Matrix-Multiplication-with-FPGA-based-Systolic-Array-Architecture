@@ -2,6 +2,9 @@
 ## Project Overview
 This project involves implementing matrix multiplication using an FPGA-based systolic array architecture. The design leverages the parallel processing capabilities of FPGAs to achieve efficient and high-speed matrix multiplication. Key components of the project include hardware modules for the systolic array, memory interface modules for input and output matrices, and the generation of bit streams for configuring the Xilinx PYNQ FPGA+ARM SoC.
 
+## Systolic Array Architecture for Matrix Multiplication
+![systolic](https://github.com/user-attachments/assets/230be90e-b151-4d35-8fb6-adcd2ef1c516)
+
 
 ## Hardware Description Language (HDL) Module Interfaces
 #### `pe.v`
